@@ -1,0 +1,16 @@
+.collection-container{
+    width: 80%;
+    margin: auto;
+}
+
+.collection-cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.card-item{
+    height: 290px;
+    width: 226px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
