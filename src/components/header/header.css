@@ -1,0 +1,42 @@
+*{
+  box-sizing: border-box;
+}
+
+a{
+  text-decoration: none;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+header{
+  background-color: red;
+}
+.container{
+  width: 80%;
+  margin: auto;
+}
+.header-wrapper{
+  display: flex;
+  justify-content: space-between;
+  height: 150px;
+  align-items: center;
+}
+.logo{
+  color: aliceblue;
+  font-size: 20px;
+}
+.nav-item{
+  text-decoration: none;
+  margin-right: 30px;
+  color: aliceblue;
+  font-size: 20px;
+}
+
+.zomoto{
+  color: aliceblue;
+  font-size:55px;
+  text-align: center;
+
+}
